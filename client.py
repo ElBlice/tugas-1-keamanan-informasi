@@ -1,7 +1,7 @@
 import socket
 from des_core import encrypt
 
-SHARED_KEY = "ITS_1960" 
+SHARED_KEY = "ITS_RAFI" 
 
 def start_client():
     host = '192.168.83.129'
